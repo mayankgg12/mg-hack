@@ -7,7 +7,7 @@ apt update && apt install figlet
 fi
 figlet -f mini    .....KALI-NETHUNTER.....
 echo
-echo " ------------Hello This Is Hax4us (devil)-----------"
+echo " ------------Hello This is Mayank garg (mg-hack)-----------"
 echo
 echo
 echo "Select Your Phone Architecture"
